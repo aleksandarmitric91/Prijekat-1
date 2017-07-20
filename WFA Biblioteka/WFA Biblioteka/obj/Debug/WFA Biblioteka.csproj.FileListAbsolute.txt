@@ -1,0 +1,18 @@
+c:\users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\bin\Debug\WFA Biblioteka.exe.config
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\bin\Debug\WFA Biblioteka.exe
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\bin\Debug\WFA Biblioteka.pdb
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA_Biblioteka.Form1.resources
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA_Biblioteka.Properties.Resources.resources
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA Biblioteka.csproj.GenerateResource.Cache
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA Biblioteka.exe
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA Biblioteka.pdb
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA_Biblioteka.NoviKorisnik.resources
+C:\Users\aleksa\Documents\Visual Studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA_Biblioteka.UlogovanoStanje.resources
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA_Biblioteka.UlogovanoStanje1.resources
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA_Biblioteka.UlogovanoStanje2.resources
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA_Biblioteka.Podesavanja.resources
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA_Biblioteka.Podesavanja1.resources
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA_Biblioteka.Naplata.resources
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA_Biblioteka.Primjedba.resources
+C:\Users\aleksa\documents\visual studio 2013\Projects\WFA Biblioteka\WFA Biblioteka\obj\Debug\WFA_Biblioteka.DodavanjeKorisnika.resources
